@@ -9,6 +9,6 @@ num3 = 10
 sum = num1 + num2 + num3
   
 # printing values 
-print("Sum of {0} and {1} {2} is {3}" .format(num1, num2, num3, sum)) 
+print("Sum of {0} {1} and {2} is {3}" .format(num1, num2, num3, sum)) 
 
 
